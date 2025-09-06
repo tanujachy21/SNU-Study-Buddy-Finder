@@ -5,7 +5,7 @@ The system uses students’ teamwork preferences, personality traits, hobbies, a
 
 ---
 
-## 🚀 Problem Statement
+## Problem Statement
 Students often struggle to find the right study partners, impacting collaborative learning outcomes.  
 This project builds a **data-driven recommendation system** that suggests compatible buddies to improve learning and engagement.
 
